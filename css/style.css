@@ -1,0 +1,45 @@
+.home-topo{
+    background-image: url(../imgs/home.jpg);
+}
+
+h1.display-4 {
+    text-align: center !important;
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 1.5;
+}
+
+p.lead-2.mt-6 {
+    text-align: center;
+}
+
+.lead-2 {
+    font-size: 1.5rem !important;
+}
+
+.navbar {
+    top: 0px;
+    background-color: #16abfd;
+}
+.header-scrolled [data-navbar="sticky"]{
+    background-color: #16abfd;
+}
+
+.home-topo {
+    background-image: url(../imgs/home.jpg);
+}
+
+.text-white {
+    color: #ffffff !important;
+}
+
+.text-white hr {
+    border-top-color: #fff;
+    width: 150px;
+    border-top: 3px solid;
+}
+
+.navbar-light .nav-navbar>.nav-item>.nav-link,
+.navbar-stick-dark.stick .nav-navbar>.nav-item>.nav-link{
+    color: white;
+}
